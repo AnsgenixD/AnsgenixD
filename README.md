@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to use python, reactJS, and AI application.
 - 🤔 I’m looking for help with getting used to Github professionally, finding cool github repositories I can clone for mac.
 - 🏫 I'm currently studying at VIT University.
+- I'm enrolled for the 2025 year for CSE core, registration number: 25BCE10665
 
 
 <!--
