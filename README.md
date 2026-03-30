@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Anshul...
+
+- 🌱 I’m currently learning to use python, reactJS, and AI application.
+- 🤔 I’m looking for help with getting used to Github professionally, finding cool github repositories I can clone for mac.
+- 🏫 I'm currently studying at VIT University.
+
 
 <!--
 **AnsgenixD/AnsgenixD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
